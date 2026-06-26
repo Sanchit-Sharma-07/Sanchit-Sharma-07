@@ -23,6 +23,5 @@ This GitHub is where I document my learning journey, share projects, and experim
 * ⚽ Love playing sports on weekends
 * 🍥 Naruto is my favorite anime
 * ☕ Coffee keeps me going during long coding sessions
-* 🎵 I enjoy listening to music while working
 * 💡 I like building things that are simple, useful, and easy to understand
 
