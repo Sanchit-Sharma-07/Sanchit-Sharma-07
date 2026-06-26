@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**Sanchit-Sharma-07/Sanchit-Sharma-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Sanchit Sharma**, a Computer Science student from India.
 
-Here are some ideas to get you started:
+I'm passionate about **Data Science** and enjoy building projects with **Python**. Right now, I'm learning SQL, Statistics, FastAPI, Machine Learning, and Cloud while creating real-world projects along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This GitHub is where I document my learning journey, share projects, and experiment with new technologies. Every repository represents something I've built to improve my skills.
+
+
+
+## 🛠️ Tools & Tech
+
+* Python, SQL, Statistics
+* Pandas, NumPy, Matplotlib
+* FastAPI
+* Git & GitHub
+* Learning Machine Learning and Power BI
+
+
+
+## 🌱 A Bit About Me
+
+* ⚽ Love playing sports on weekends
+* 🍥 Naruto is my favorite anime
+* ☕ Coffee keeps me going during long coding sessions
+* 🎵 I enjoy listening to music while working
+* 💡 I like building things that are simple, useful, and easy to understand
+
