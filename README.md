@@ -2,7 +2,7 @@
 
 I'm **Sanchit Sharma**, a Computer Science student from India.
 
-I'm passionate about **Data Science** and enjoy building projects with **Python**. Right now, I'm learning SQL, Statistics, FastAPI, Machine Learning, and Cloud while creating real-world projects along the way.
+I'm passionate about **Data Science** and enjoy building projects with **Python**. Right now, I'm mastering SQL, Statistics, FastAPI, Machine Learning, and Cloud while creating real-world projects along the way.
 
 This is a fresh profile where I document my learning journey, share projects, and experiment with new technologies. Every repository represents something I've built to improve my skills.
 
